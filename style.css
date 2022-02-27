@@ -1,0 +1,91 @@
+body{
+    color: white;
+    background-color: rgb(83, 77, 77);
+    font-family: tahoma;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.header-1{
+    background-color: burlywood;
+    height: 150px;
+    color: whitesmoke;
+    width: 80%;
+    margin: auto;
+    border-right: 5px brown;
+    border-radius: 10px;
+}
+
+.header-1 table{
+    padding-top: 100px;
+}
+
+.header-1 a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Verdana;
+    padding: 10px;
+    background-color: blue;
+    border-radius: 3px;
+}
+
+.header-1 a:hover{
+    background-color:royalblue;
+    color: black;
+}
+
+.header-1 a:active{
+    color: red;
+}
+
+.header-1 a:visited{
+    color: coral;
+}
+
+.content{
+    height: auto;
+    width: 70%;
+    background-color: burlywood;
+    margin: auto;
+}
+
+.content h1{
+    text-align: center;
+    color: brown;
+    font-family: 'Courier New';
+}
+
+.content p{
+    text-align: center;
+    font-style: italic;
+    color: black;
+}
+
+.content img{
+    max-width: 100px;
+}
+
+.footer-1{
+    height: 200px;
+    width: 80%;
+    background-color: black;
+    margin: auto;
+    margin-top: 10px;
+    color: white;
+    font-family: 'Gill Sans';
+    text-align: center;
+}
+
+#myimage{
+    max-width: 150px;
+    margin-left: 60px;
+    border: 5px navy solid;
+    border-radius: 10px;
+
+}
+
+#myinfo{
+    color: navy;
+    font-family: 'Gill Sans';
+    font-size: 30px;
+}
